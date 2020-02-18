@@ -60,6 +60,6 @@ def updateTable(mycursor, table):
 
 #removeClassClub(mycursor, table)
 #addClassClub(mycursor, table)
-updateTable(mycursor, table)
+#updateTable(mycursor, table)
 
-showData(mycursor, table)
+#showData(mycursor, table)

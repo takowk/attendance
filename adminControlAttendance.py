@@ -56,5 +56,5 @@ def updateTable(mycursor, table):
 
 #addStudent(mycursor, table)
 #removeAttendance(mycursor, table)
-updateTable(mycursor, table)
-showData(mycursor, table)
+#updateTable(mycursor, table)
+#showData(mycursor, table)
